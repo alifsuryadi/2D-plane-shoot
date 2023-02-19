@@ -1,2 +1,2 @@
 # 2D-plane-shoot
-Project files on Game 2D Plane Shoot in Unity
+Project files of "2D Plane Shoot" game developed in Unity
